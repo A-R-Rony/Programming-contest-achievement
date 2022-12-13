@@ -1,9 +1,29 @@
 # Programming-contest-achievement
+
+## EEE DAY 2022
+My team (**NSTU_CryptoFries**) secured **2<sup>nd</sup> place**
+
+[**standing**](https://github.com/A-R-Rony/Programming-contest-achievement/blob/main/eee%20day%20standing.jpg)
+
+[**Certificate**](https://github.com/A-R-Rony/Programming-contest-achievement/blob/main/eee%20day%20certificate.jpg)
+
+
+## CUET CSE FEST 2022 
+My team (**NSTU_CryptoFries**) secured **4<sup>th</sup> place**
+
+[**Standing**](https://toph.co/c/cuet-cse-fest-2022-inter-university-divisional/standings)
+
+[**picture**](https://github.com/A-R-Rony/Programming-contest-achievement/blob/main/cuet%20cse%20fest%202022.jpg)
+## 2<sup>nd</sup> NSTUSC Science Fest 2022
+My team (**Ternary_Losser**) secured **3<sup>rd</sup> place** 
+
+[**Certificate**](https://github.com/A-R-Rony/Programming-contest-achievement/blob/main/science%20fest%202022%20certificate.jpg)
+
+[**Picture**](https://github.com/A-R-Rony/Programming-contest-achievement/blob/main/science%20fest%202022.jpg)
+
 ## NSTU Intra University Programming Contest - September 2022 (Organized by CSTE CLUB)
-My team (Ternary_Losser) were **CHAMPION**.
+My team (**Ternary_Losser**) were **CHAMPION**.
 #### [picture](https://github.com/A-R-Rony/Programming-contest-achievement/blob/main/image%201.jpg)
 
-## 2<sup>nd</sup> NSTUSC Science Fest 2022
-My team (Ternary_Losser) secured **3<sup>rd</sup> place** 
 
 
