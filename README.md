@@ -25,5 +25,10 @@ My team (**Ternary_Losser**) secured **3<sup>rd</sup> place**
 My team (**Ternary_Losser**) were **CHAMPION**.
 #### [picture](https://github.com/A-R-Rony/Programming-contest-achievement/blob/main/image%201.jpg)
 
+## NSTU Intra University Programming Contest - 2022 (Organized by ICE PROGRAMMING CLUB)
+My team (**Ternary_Losser**) secured **6<sup>th</sup> place**
+
+[**standing**](https://www.hackerrank.com/contests/nstu-intra-university-programming-contest-2022-icepc/leaderboard?fbclid=IwAR1Tpw0iKxcHlh3dlJRvWxXt49b521A6kkqZquoAluSE-N4CmxVhHrOFxGE)
+
 
 
