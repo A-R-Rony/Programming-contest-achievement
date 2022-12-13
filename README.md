@@ -1,2 +1,2 @@
 # Programming-contest-achievement
-read me
+## NSTU Intra University Programming Contest - September 2022 (Organized by CSTE CLUB)
