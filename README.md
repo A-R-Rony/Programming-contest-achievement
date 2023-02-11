@@ -1,5 +1,11 @@
 # Programming-contest-achievement
 
+## 2022 ICPC Asia Dhaka Regional Online Preliminary Contest Hosted by Green University of Bangladesh
+My team (**NSTU_CryptoFries**) secured **65th place**
+
+[**standing**](https://algo.codemarshal.org/contests/icpc-dhaka-22-preli/standings?fbclid=IwAR2wE4YMLbNszt97-6hMGJWFLnMtidVWniefDbbCRLvtoR8z-vURX7CR92c)
+
+
 ## EEE DAY 2022
 My team (**NSTU_CryptoFries**) secured **2<sup>nd</sup> place**
 
