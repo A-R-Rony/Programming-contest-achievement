@@ -34,6 +34,7 @@ My team (**Ternary_Losser**) secured **3<sup>rd</sup> place**
 ## NSTU Intra University Programming Contest - September 2022 (Organized by CSTE CLUB)
 My team (**Ternary_Losser**) were **CHAMPION**.
 #### [picture](https://github.com/A-R-Rony/Programming-contest-achievement/blob/main/image%201.jpg)
+### [Standing](https://www.hackerrank.com/contests/nstu-intra-university-programming-contest-september-2022/leaderboard)
 
 ## NSTU Intra University Programming Contest - 2022 (Organized by ICE PROGRAMMING CLUB)
 My team (**Ternary_Losser**) secured **6<sup>th</sup> place**
