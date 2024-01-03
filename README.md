@@ -1,5 +1,9 @@
 # Programming-contest-achievement
 
+
+ ## Champion at Intra NSTU Individual Programming Contest July 2023
+[**standing**](https://www.hackerrank.com/contests/intra-nstu-individual-programming-contest-july-2023/leaderboard)
+
 ## 2022 ICPC Asia Dhaka Regional Online Preliminary Contest Hosted by Green University of Bangladesh
 My team (**NSTU_CryptoFries**) secured **65th place**
 
