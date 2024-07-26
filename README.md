@@ -18,8 +18,10 @@
 | 14 | Codeforces Round 905 (Div. 3) | [link](https://codeforces.com/contest/1883/standings/participant/166142002#p166142002) | $1369^{th}$ |-|
 | 15 | Codeforces Global Round 25 | [link](https://codeforces.com/contest/1951/standings/participant/178955002#p178955002) | $1462^{th}$ |Became Expert in this contest.  I solved problem D, which was rated 2000, and almost solved problem E (didn't succeed due to a silly mistake).|
 
-## Team competitions (On site contest)
+## Team competitions 
 ---
+### Intra Universtiy Programming Contest
+
 | # | Contest Name | Team Name | Standing | Contest Rank | 
 |--|--------|-------|-------|---------|
 | 1 | NSTU Intra University Programming Contest - September 2022 | Brain_zip| [link](https://www.hackerrank.com/contests/nstu-intra-university-programming-contest-september-2022/leaderboard) | Champion |
@@ -29,3 +31,21 @@
 | 5 | NSTU EEE DAY 2022 - Inter University Programming Contest (Regional) | NSTU_Crypt0Fries | [link](https://www.hackerrank.com/contests/nstu-regional-programming-contest-of-eee-day-2022/leaderboard/1) | $1^{st}$ Runner up |
 | 6 | 2nd NSTUSC Science Fest 2022 | NSTU_Dreamers | [link](https://raw.githubusercontent.com/A-R-Rony/Programming-contest-achievement/main/science%20fest%202022%20certificate.jpg) | $2^{nd}$ Runner up |
 | 7 | NSTU Intra University Programming Contest 2022 Organized by ICE Programming Club | Brain_zip | [link](https://www.hackerrank.com/contests/nstu-intra-university-programming-contest-2022-icepc/leaderboard?fbclid=IwAR1Tpw0iKxcHlh3dlJRvWxXt49b521A6kkqZquoAluSE-N4CmxVhHrOFxGE) | $6^{th}$ place |
+
+### Inter University Programming Contest
+
+| # | Contest Name | Team Name | Standing | Contest Rank | 
+|--|--------|-------|-------|---------|
+| 1 | CUET IUPC (Divisonal)  2022 | NSTU_Cryptofries | [link](https://toph.co/c/cuet-cse-fest-2022-inter-university-divisional/standings) | $4^{th}$ place |
+| 2 | 15th IIUC Inter University Programming Contest 2023  | NSTU_Cryptofries | [link](https://toph.co/c/15th-iiuc-inter-university-2023/standings) | $7^{th}$ place |
+| 3 | CoU-BRACNet IUPC 2023 | NSTU_Cryptofries | [link](https://toph.co/c/cou-bracnet-inter-university-2023/standings) | $27^{th}$ place |
+| 4 | BUET IUPC 2023 | NSTU_Cryptofries | [link](https://toph.co/c/buet-inter-university-2023/standings) | $66^{th}$ place |
+| 5 | Kite Games Presents IUPC-SUST CSE Carnival 2024 | NSTU_Eternity | [link](https://toph.co/c/inter-university-sust-cse-carnival-2024/standings) | $59^{th}$ place |
+| 6 | IUT 11th National ICT Fest Programming Contest 2024 | NSTU_Eternity | [link](https://toph.co/c/iut-11th-national-ict-fest-2024/standings) | $73^{th}$ place |
+| 7 | SEC IUPC (Junior) 2022 | NSTU_Dreamers | [link](https://toph.co/c/sec-inter-university-junior-2022/standings) | $51^{th}$ place |
+| 8 | ICPC Dhaka Preliminary 2022 | NSTU_Cryptofries | [link](https://algo.codemarshal.org/contests/icpc-dhaka-22-preli/standings) | $65^{th}$ place |
+| 9 | ICPC Dhaka Preliminary 2023 | NSTU_Cryptofries | [link](https://bapsoj.org/) | $50^{th}$ place |
+| 10 | ICPC Dhaka Regional 2022 | NSTU_Cryptofries | - | - |
+| 11 | ICPC Dhaka Regional 2023 | NSTU_Cryptofries | [link](https://bapsoj.org/contests/icpc-dhaka-regional-site-2023/standings)  | $66^{th}$ place |
+
+
